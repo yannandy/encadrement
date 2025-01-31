@@ -1,1 +1,1 @@
-# encadrement
+Cette APP est conçue pour une application web permettant aux étudiants de s'inscrire, de sélectionner des superviseurs et maîtres, et de fournir des évaluations. L'API comprend des endpoints pour **l'authentification**, **l'inscription**, **l'attribution des encadreurs**, **l'évaluation**, et **la liste des encadreurs avec les évaluations moyennes**.
